@@ -1,0 +1,14 @@
+
+body{
+    background-color: white;
+}
+#marco{
+    color: red;
+    display: flex;
+    align-items: center;
+    
+    
+}
+t{
+    font-size: large;
+}
